@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yuxiang32
-- 👀 I’m interested in building out web3 projects
-- 🌱 I’m currently learning rust, solidity
-- 💞️ I’m looking to collaborate on blockchain related projects
+- 👋 Hi, I’m Zheng Yuxiang
+- 👀 I’m interested in building out interesting web projects
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me @yxlamar on twitter
 
 <!---
